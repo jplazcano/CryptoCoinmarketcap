@@ -1,3 +1,3 @@
 ### CryptoCoinmarketcap
 
-El la siguiente Jupyter notebook podrán ver el código que utilicé para descargar y analizar las top1000 criptomonedas según marketcap a través de la API de Coinmarketcap
+In the following Jupyter notebook you can see the code I used to download and analyse the top1000 cryptocurrencies according to marketcap through the Coinmarketcap API.
